@@ -24,6 +24,15 @@
 
 
 > [!NOTE]
+> Fui **monitor** da disciplina de **Algoritmos 1** no primeiro semestre de 2025 e, em 2026, fui aprovado em um edital para trabalhar no **Laboratório e Centro de Computação Científica e Tecnológica (CCCT-CP)**. Na Fatec, realizei um estágio com pouca alinhamento de plano trabalhista, mas o principal foi a criação de **desafios (CTFs)/serviços de rede** para a **Semana da Segurança da Informação**.
+  
+- [Seleção 2025/1 de Estudantes Monitores - UTFPR](https://www.utfpr.edu.br/editais/graduacao-e-educacao-profissional/cornelioprocopio/selecao-2025-1-de-estudantes-monitores-de-atendimento-ao-estudante-mat-e-apoio-ao-docente-map-da-utfpr-do-campus-cornelio-procopio)
+- [Laboratório Multiusuário CCCT-CP - UTFPR](https://www.utfpr.edu.br/editais/pesquisa-e-pos-graduacao/laboratorios-multiusuarios/ccct-cp/bolsista_nivel_medio_2025)
+- [Título e Orientador do meu TCC (artigo)](https://www.escavador.com/sobre/4047058/christovam-castilho-junior#:~:text=Aluno%3A%20Carlos%20Gabriel%20Baratieri)
+
+
+
+> [!NOTE]
 > Abaixo estão alguns dos livros do meu acervo pessoal (livros físicos).
 
 
@@ -43,8 +52,6 @@
 ---
 
 
-<details>
-  <summary><b><code>Hard Skills</code></b></summary>
   <table align="center">
     <tr>
       <th align="center">Category</th>
@@ -100,23 +107,7 @@
       </td>
     </tr>
   </table>
-</details>
 
-
-
-
----
-
-<details>
-  <summary><b><code>UTFPR/Fatec Announcements & Opportunities</code></b></summary>
-
-> Fui **monitor** da disciplina de **Algoritmos 1** no primeiro semestre de 2025 e, em 2026, fui aprovado em um edital para trabalhar no **Laboratório e Centro de Computação Científica e Tecnológica (CCCT-CP)**. Na Fatec, realizei um estágio com pouca alinhamento de plano trabalhista, mas o principal foi a criação de **desafios (CTFs)/serviços de rede** para a **Semana da Segurança da Informação**.
-  
-- [Seleção 2025/1 de Estudantes Monitores - UTFPR](https://www.utfpr.edu.br/editais/graduacao-e-educacao-profissional/cornelioprocopio/selecao-2025-1-de-estudantes-monitores-de-atendimento-ao-estudante-mat-e-apoio-ao-docente-map-da-utfpr-do-campus-cornelio-procopio)
-- [Laboratório Multiusuário CCCT-CP - UTFPR](https://www.utfpr.edu.br/editais/pesquisa-e-pos-graduacao/laboratorios-multiusuarios/ccct-cp/bolsista_nivel_medio_2025)
-- [Título e Orientador do meu TCC (artigo)](https://www.escavador.com/sobre/4047058/christovam-castilho-junior#:~:text=Aluno%3A%20Carlos%20Gabriel%20Baratieri)
-
-</details>
 
 
 ---
