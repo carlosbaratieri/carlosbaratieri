@@ -20,7 +20,7 @@
 **Hello! My name is** `Carlos G. Baratieri`
 
 > [!IMPORTANT]
-> Tenho 23 anos, sou formado em Tecnologia em Segurança da Informação pela FATEC Ourinhos e atualmente curso Engenharia de Computação na UTFPR-CP. Tenho interesse em redes de computadores, algoritmos, estruturas de dados e desenvolvimento back-end.
+> Tenho 23 anos, sou formado em Tecnologia em Segurança da Informação pela FATEC Ourinhos e atualmente curso Engenharia de Computação na UTFPR-CP. Tenho interesse em redes de computadores, DevSecOps, System Design, algoritmos, estruturas de dados, desenvolvimento back-end, teoria do caos, criptografia caótica, algoritmos aleatorizados e otimização combinatória.
 
 
 > [!NOTE]
