@@ -32,7 +32,7 @@
 
 
 
-> [!NOTE]
+> [!TIP]
 > Abaixo estão alguns dos livros do meu acervo pessoal (livros físicos).
 
 
