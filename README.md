@@ -20,11 +20,11 @@
 **Hello! My name is** `Carlos G. Baratieri`
 
 > [!IMPORTANT]
-> I am 23 years old, I have a degree in Technologist in Information Security (FATEC Ourinhos), I am currently pursuing a Bachelor’s degree in Computer Engineering (UTFPR-CP), and I am interested in computer networks, algorithms, data structures, and back-end development.
+> Tenho 23 anos, sou formado em Tecnologia em Segurança da Informação pela FATEC Ourinhos e atualmente curso Engenharia de Computação na UTFPR-CP. Tenho interesse em redes de computadores, algoritmos, estruturas de dados e desenvolvimento back-end.
 
 
 > [!NOTE]
-> Below is some of my literature (physical books)
+> Abaixo estão alguns dos livros do meu acervo pessoal (livros físicos).
 
 
 <p align="center">
