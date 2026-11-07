@@ -62,9 +62,9 @@
       <td align="center">
         <img src="https://skillicons.dev/icons?i=c" width="50" />
         <img src="https://skillicons.dev/icons?i=r" width="50" />
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="80" />
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" />
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" />
+        <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+        <img src="https://skillicons.dev/icons?i=java" width="50" />
+        <img src="https://skillicons.dev/icons?i=python" width="50" />
       </td>
     </tr>
     <tr>
@@ -85,20 +85,22 @@
         <img src="https://skillicons.dev/icons?i=git" width="50" />
         <img src="https://skillicons.dev/icons?i=cmake" width="50" />
         <img src="https://skillicons.dev/icons?i=neovim" width="50" />
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" />
+        <img src="https://skillicons.dev/icons?i=github" width="50" />
+        <!-- <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" /> -->
       </td>
     </tr>
     <tr>
       <td align="center"><b>Databases</b></td>
       <td align="center">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="50" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="50" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
       </td>
     </tr>
     <tr>
       <td align="center"><b>OS & Networking</b></td>
       <td align="center">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" />
+        <!--  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" /> -->
+        <img src="https://skillicons.dev/icons?i=docker" width="50" />
         <img src="https://skillicons.dev/icons?i=linux" width="50" />
         <img src="https://skillicons.dev/icons?i=nginx" width="50" />
         <img src="https://skillicons.dev/icons?i=debian" width="50" />
