@@ -65,14 +65,16 @@
         <img src="https://skillicons.dev/icons?i=cpp" width="50" />
         <img src="https://skillicons.dev/icons?i=java" width="50" />
         <img src="https://skillicons.dev/icons?i=python" width="50" />
+        <img src="https://skillicons.dev/icons?i=js" width="50" />
       </td>
     </tr>
     <tr>
-      <td align="center"><b>Markup</b></td>
+      <td align="center"><b>Markup/Front-End</b></td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=html" width="50" />
         <img src="https://skillicons.dev/icons?i=latex" width="50" />
         <img src="https://skillicons.dev/icons?i=md" width="50" />
+        <img src="https://skillicons.dev/icons?i=css" width="50" />
       </td>
     </tr>
     <tr>
